@@ -1,2 +1,2 @@
 # LGMVIP
-This repository contains my Internship Projects. I got an Internship in LetsGrowMore. In this Internship my domain is web development and i had given some tasks that i have to perform So, it will check how i'm capable in 
+I got an Internship in LetsGrowMore. This repository contains my Internship Projects. In this Internship, my domain is web development and I had given some tasks that I have to perform. So, it will check my capabilities in web development technology at different levels.
